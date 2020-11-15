@@ -1,0 +1,219 @@
+body{
+	margin:0;
+	padding:0;
+}
+header{
+	background-color:#3E5C9A;
+}
+.container{
+	width:86%;
+	margin:0 auto;
+	/*border:1px solid grey;*/
+}
+.hd{
+	overflow:hidden;
+	/*border:2px solid red;*/
+
+}
+.logo{
+	
+    width: 15%;
+    /*border: 1px solid yellow;*/
+    float: left;
+    margin: 26px 0;
+
+}
+.logo img{
+	width:100%;
+}
+.menu{
+	width:38%;
+	/*border:1px solid yellow;*/
+	float:right;
+}
+.form{
+	overflow: hidden;
+	/*border:1px solid white;*/
+}
+.em{
+	margin-top: 20px;
+	width:31%;
+	color: white;
+	/*border:1px solid red;*/
+	float:left;
+}
+.email{
+	margin-top: 7px;
+	width:135px;
+}
+.email:focus{
+	outline:none;
+}
+.pass{
+	margin-top: 20px;
+	margin-left: 30px;
+    width: 31%;
+    /*border: 1px solid red;*/
+    float: left;
+    color: white;
+}
+.password{
+	margin-top: 7px;
+	width:135px;
+}
+.password:focus{
+	outline:none;
+}
+.button{
+width: 12%;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-left: 30px;
+    margin-top: 46px;
+}
+.btn{
+	border:none;
+	background-color: #4267B2
+}
+.btn a{
+	color:white;
+	text-decoration: none;
+}
+.btn:focus{
+	outline:none;
+}
+.p{
+	margin: -9px 170px;
+    
+    width: 30%;
+    /*border: 1px solid white;*/
+}
+.p a{
+	color:#84869A;
+	text-decoration: none;
+}
+/*body start*/
+.body{
+margin-top: 20px;
+background-color: #E7EAF3;
+}
+.b_content{
+
+	overflow:hidden;
+	/*border:1px solid green;*/
+
+}
+.left{
+	float:left;
+	width:43%;
+	/*border:1px solid red;*/
+}
+.left h2{
+	margin-top: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #0E385F;
+    line-height: 25px;
+    letter-spacing: 1px;
+
+}
+.connect{
+/*border:1px solid black;*/
+}
+.connect img{
+width:100%;
+}
+/*right start*/
+.right{
+	width:43%;
+	float:right;
+	/*border:1px solid red;*/
+}
+.create{
+/*border:1px solid black;*/
+}
+.create h2{
+	font-family: sans-serif;
+    font-size: 40px;
+    color: #000000;
+    margin-bottom: 11px;
+}
+.create p{
+	font-family: sans-serif;
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 11px;
+}
+form{
+/*.name{overflow:hidden;*/
+	/*border:1px solid red;*/
+}
+
+	/*float:left;*/
+
+
+	/*float:right;*/
+
+.name{
+	margin-top: 20px;
+}
+.first_name{
+	        padding: 2px;
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 46%;
+}
+.sur_name{
+	   padding: 2px;
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 46%;
+        margin-left: 19px;
+}
+
+.whole{
+	      padding: 9px 0;
+}
+.mobile{
+	margin: 10px 0;
+	padding: 3px;
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 98%;
+}
+.birth{
+	font-size: 21px;
+    font-family: sans-serif;
+    margin: 23px 0 ;
+	color:#90949C;
+}
+.sl{
+	margin: 10px 0;
+	padding: 9px;
+}
+.gender{
+	padding: 20px;
+}
+.sp{
+padding: 20px;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+.sg{
+	/*text-align: center;*/
+}
+.sg button{
+width:150px;
+height:47px;
+	background-color: #5B9047;
+}
+.sg button a{
+	color:white;
+	text-decoration: none;
+	font-size: 20px;
+	    border-radius: 4p
+}
+/*.password{}*/
+/*right end*/
+/*body end*/
